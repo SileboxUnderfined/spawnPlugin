@@ -1,0 +1,6 @@
+name: SpawnPlugin
+version: 1.0.0
+main: io.papermc.spawnPlugin.spawnplugin
+description: simple plugin which adds /spawn command
+author: Silent Box
+api-version: '1.20'
